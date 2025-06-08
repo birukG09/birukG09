@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Biruk Gebre
 
-I’m a 2nd-year Software Engineering student passionate about programming and technology. While I’m still learning, I’m eager to develop my skills and contribute to meaningful projects.
+I’m a Software Engineering student passionate about programming and technology. While I’m still learning, I’m eager to develop my skills and contribute to meaningful projects.
 
 ---
 
@@ -11,7 +11,7 @@ I’m a 2nd-year Software Engineering student passionate about programming and t
   - Python, PHP, Rust, R, Go, Java  
   - JavaScript, C/C++  
 - Areas of interest include:
-  - Flask web development  
+  - Flask,django,spring,react. web development  
   - Ruby on Rails  
   - Artificial Intelligence, Machine Learning, and Large Language Models  
   - Control Systems and IoT device development  
