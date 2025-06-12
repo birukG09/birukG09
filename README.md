@@ -50,7 +50,7 @@ I’m a Software Engineering student passionate about programming and technology
 
 I’m open to connections, collaborations, and learning opportunities.  
 - GitHub: [https://github.com/birukG09](https://github.com/birukG09)  
-- Email: [Your Email Here]  
+- Email: birukgebre277@gmail.com
 
 ---
 
