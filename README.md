@@ -20,7 +20,7 @@ I’m a Software Engineering student passionate about programming and technology
   - LangChain prompting and AI model integration  
   - Computer Vision and automation  
   - Embedded systems and Android app development  
-  - Database systems such as SQL, MongoDB, and PostgreSQL  
+  - Database systems such as  MySQL, MongoDB, and PostgreSQL  
 
 ---
 
