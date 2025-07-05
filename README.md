@@ -93,4 +93,15 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+## 🐍 GitHub Snake Game
+
+![snake gif](https://github.com/birukG09/birukG09/blob/output/github-contribution-grid-snake.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=birukG09&color=blue&style=flat-square)
+[![trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 Featured Projects
+
+- 💹 [ETB Exchange](https://github.com/birukG09/ETB-exchange-) — Crypto, stock, and currency dashboard with financial data graphs.
+- 📚 [BiTS Connect](https://github.com/birukG09/bits-connect) — Educational platform for students with GPA tracker, chat, and digital library.
+- 📈 [AI Behavioral Finance App] — (Coming soon)
+
 
