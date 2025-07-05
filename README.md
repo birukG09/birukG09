@@ -4,7 +4,8 @@ I’m a Software Engineering student passionate about programming and technology
 
 ---
 
-## 🌱 About Me
+## 🌱 About Me .
+
 
 - Currently pursuing a degree in Software Engineering (2nd year)  
 - Programming experience with:
