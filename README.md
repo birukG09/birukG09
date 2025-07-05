@@ -85,5 +85,12 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Biruk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=tokyo-night&bg_color=1A1B27&color=7FDBCA&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
-</a>
+</a> 
+## 🧰 Tech Stack
+
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
