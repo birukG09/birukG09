@@ -82,9 +82,3 @@ You can click the Preview link to take a look at your changes.
   <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=tokyonight&hide_border=false&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
 
-</div>
-![Visitor Badge](https://komarev.com/ghpvc/?username=birukG09&color=blue&style=flat-square)
-![Status](https://img.shields.io/badge/Project-ETB%20Exchange-blueviolet?style=for-the-badge&logo=ethereum)
-![Code](https://img.shields.io/badge/Backend-NestJS-red?style=for-the-badge&logo=nestjs)
-![Frontend](https://img.shields.io/badge/Frontend-Vite%20+%20React-blue?style=for-the-badge&logo=react)
-
