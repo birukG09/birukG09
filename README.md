@@ -63,4 +63,28 @@ I’m open to connections, collaborations, and learning opportunities.
 birukG09/birukG09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true)](https://github.com/birukG09/github-readme-stats&show_icons=true)                                            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact)](https://github.com/birukG09/github-readme-stats&layout=compact)
+## 📊 GitHub Stats & Insights
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<a href="https://github.com/birukG09">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15&hide_rank=false" />
+</a>
+
+<!-- Most Used Languages -->
+<a href="https://github.com/birukG09">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=tokyonight&langs_count=10&border_radius=15&card_width=320" />
+</a>
+
+<!-- Streak Stats -->
+<a href="https://github.com/birukG09">
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=tokyonight&hide_border=false&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
+</a>
+
+</div>
+![Visitor Badge](https://komarev.com/ghpvc/?username=birukG09&color=blue&style=flat-square)
+![Status](https://img.shields.io/badge/Project-ETB%20Exchange-blueviolet?style=for-the-badge&logo=ethereum)
+![Code](https://img.shields.io/badge/Backend-NestJS-red?style=for-the-badge&logo=nestjs)
+![Frontend](https://img.shields.io/badge/Frontend-Vite%20+%20React-blue?style=for-the-badge&logo=react)
+
