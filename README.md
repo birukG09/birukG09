@@ -81,4 +81,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/birukG09">
   <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=tokyonight&hide_border=false&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
+## 🧠 Contribution Activity Graph
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Biruk's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=tokyo-night&bg_color=1A1B27&color=7FDBCA&line=38BDF8&point=FFFFFF&area=true&hide_border=true" />
+</a>
 
