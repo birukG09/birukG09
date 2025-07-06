@@ -93,9 +93,44 @@ You can click the Preview link to take a look at your changes.
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-## 🐍 GitHub Snake Game
+## 🧰 Tech Stack
 
-![snake gif](https://github.com/birukG09/birukG09/blob/output/github-contribution-grid-snake.svg)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
+
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=esp8266)
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Blockchain](https://img.shields.io/badge/-Blockchain-315CF5?style=for-the-badge&logo=blockchain)
+![Security](https://img.shields.io/badge/-Security-000000?style=for-the-badge&logo=securityscorecard)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android)
+
+
+![GitHub Snake](https://github.com/birukG09/birukG09/raw/output/github-contribution-grid-snake.svg)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=birukG09&color=blue&style=flat-square)
 [![trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ## 🚀 Featured Projects
@@ -103,5 +138,6 @@ You can click the Preview link to take a look at your changes.
 - 💹 [ETB Exchange](https://github.com/birukG09/ETB-exchange-) — Crypto, stock, and currency dashboard with financial data graphs.
 - 📚 [BiTS Connect](https://github.com/birukG09/bits-connect) — Educational platform for students with GPA tracker, chat, and digital library.
 - 📈 [AI Behavioral Finance App] — (Coming soon)
+
 
 
