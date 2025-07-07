@@ -74,8 +74,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Most Used Languages -->
 <a href="https://github.com/birukG09">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=tokyonight&langs_count=10&border_radius=15&card_width=320" />
+ <a href="https://github.com/birukG09">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=radical&langs_count=6&border_radius=15&card_width=350" alt="Top Languages used by Biruk" />
 </a>
+
 
 <!-- Streak Stats -->
 <a href="https://github.com/birukG09">
