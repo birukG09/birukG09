@@ -98,7 +98,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ---
 
-![GitHub Snake](https://github.com/birukG09/birukG09/raw/output/github-contribution-grid-snake.svg)  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=birukG09&color=blue&style=flat-square)
 
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
