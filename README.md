@@ -86,7 +86,16 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 <div align="center">
 
   <!-- GitHub Stats (green/black) -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
+  <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
+
+<br/>
+
+<p style="color:#00ff00; font-family: matrix; font-size: 16px;">
+  
+
+
 
   <!-- Streak stats: dark theme with green rings & fire -->
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=dark&background=000000&ring=00ff00&fire=00ff00" />
