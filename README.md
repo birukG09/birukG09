@@ -83,27 +83,52 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
+<!-- GitHub Stats (green/black) -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=gruvbox" />
+<!-- Streak stats: dark theme with green rings & fire -->
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=dark&background=000000&ring=00ff00&fire=00ff00" />
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=gruvbox&langs_count=10" />
+<!-- Top langs (green/black) -->
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=matrix&langs_count=10" />
 
-<img alt="Biruk's Activity Graph" width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=gruvbox&bg_color=282828&color=b8bb26&line=458588&point=d65d0e&area=true&hide_border=true" />
+<!-- Activity graph (green/black) -->
+<img alt="Biruk's Activity Graph" width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=matrix&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true" />
 
 </div>
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=birukG09&color=brightgreen&style=flat-square)
 
-![Profile Views](https://komarev.com/ghpvc/?username=birukG09&color=blue&style=flat-square)
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+
+
+</div>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=birukG09&color=brightgreen&style=flat-square)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+</div>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=birukG09&color=brightgreen&style=flat-square)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 
 ## 📫 Get in Touch
 
