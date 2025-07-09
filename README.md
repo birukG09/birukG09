@@ -72,13 +72,13 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 ---
 
 ## 🚀 Featured Projects
-
+  
 - 💹 [ETB Exchange](https://github.com/birukG09/ETB-exchange-) — Crypto, stock, and currency dashboard with real-time financial data + graph visualizations  
 - 📚 [BiTS Connect](https://github.com/birukG09/bits-connect) — Educational platform with GPA tracking, internal chat, blogs, digital library  
 - 🤖 [SmartHome Sensor Control](https://github.com/birukG09/SmartHome-Sensor-Control-Logger) — CLI-based IoT simulation with real sensor data logging and control  
 - 📈 [PKAIN - Personal Knowledge AI](https://github.com/birukG09/PKAIN) — Intelligent note system powered by LLMs and AI insights  
 - 📦 [Java Library System](https://github.com/birukG09/Library-Management-System) — OOP-based book & member tracking with full SQLite support  
-  
+- 🏦 [DeFiVerse Bank Simulator](https://github.com/birukG09/DeFiVerse-Bank-Simulator-) — Multi-language DeFi simulation platform with staking, NFT minting, treasury control, and DAO governance — built using JS, TS, Java, Rust & Solidity.
 
 ---
 
