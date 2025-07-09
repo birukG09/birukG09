@@ -78,7 +78,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 - 🤖 [SmartHome Sensor Control](https://github.com/birukG09/SmartHome-Sensor-Control-Logger) — CLI-based IoT simulation with real sensor data logging and control  
 - 📈 [PKAIN - Personal Knowledge AI](https://github.com/birukG09/PKAIN) — Intelligent note system powered by LLMs and AI insights  
 - 📦 [Java Library System](https://github.com/birukG09/Library-Management-System) — OOP-based book & member tracking with full SQLite support  
-- 🔐 AI Behavioral Finance App *(coming soon)*
+  
 
 ---
 
