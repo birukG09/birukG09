@@ -112,5 +112,5 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ---
 
-> “The best way to predict the future is to build it.” — Alan Kay  
+> “The best way to predict the future is to build it.” — Alan Key  
 
