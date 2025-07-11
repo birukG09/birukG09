@@ -87,7 +87,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
   <!-- GitHub Stats (green/black) -->
   <div align="center">
-
+  
 <img src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
 
 <br/>
@@ -137,5 +137,5 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ---
 
-> “The best way to predict the future is to build it.” — Alan Kay  
+> “The best  way to predict the future is to build it.” — Alan Kay  
 
