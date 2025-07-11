@@ -88,11 +88,11 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
   <!-- GitHub Stats (green/black) -->
   <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=matrix&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=black&include_all_commits=true&count_private=true" />
 
 <br/>
 
-<p style="color:#00ff00; font-family: matrix; font-size: 16px;">
+<p style="color:#00ff00; font-family: black; font-size: 16px;">
   
 
 
@@ -101,7 +101,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=dark&background=000000&ring=00ff00&fire=00ff00" />
 
   <!-- Top langs (green/black with overrides) -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=matrix&bg_color=000000&title_color=00ff00&text_color=33ff33&icon_color=00ff00&border_color=000000&langs_count=10" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=matrixgreen&bg_color=000000&title_color=00ff00&text_color=33ff33&icon_color=00ff00&border_color=000000&langs_count=10" />
 
   <!-- Activity graph (dense, big width) -->
   <img alt="Biruk's Activity Graph" width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=matrix&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&count=180" />
