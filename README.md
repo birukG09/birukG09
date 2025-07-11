@@ -82,7 +82,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats!
 <div align="center">
 
   <!-- GitHub Stats (green/black) -->
