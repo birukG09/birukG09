@@ -112,9 +112,9 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=matrixgreen&bg_color=000000&title_color=00ff00&text_color=33ff33&icon_color=00ff00&border_color=000000&langs_count=10&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=matrix&bg_color=000000&title_color=00ff00&text_color=33ff33&icon_color=00ff00&border_color=000000&langs_count=10&hide_border=true" 
     alt="Top Languages" 
-    height="180"
+    height="400"
   />
 
   <br />
@@ -123,7 +123,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=matrix&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&count=180" 
     alt="Contribution Activity Graph" 
-    width="650"
+    width="750"
   />
 
 </div>
@@ -144,7 +144,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
     <img 
       src="https://github-profile-trophy.vercel.app/?username=birukG09&theme=matrix&no-bg=true&margin-w=10&margin-h=10" 
       alt="GitHub Trophy" 
-      height="80"
+      height="300"
     />
   </a>
 </p>
