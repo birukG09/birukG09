@@ -1,6 +1,13 @@
-# 👋 Hello, I’m Biruk Gebre
-
+# 👋 Hello, I’m Biruk Gebre > !
+> ![Matrix Falling Code](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 I'm a **Software Engineering student** passionate about **programming**, **embedded systems**, and **intelligent automation**. I love building full-stack apps, exploring emerging tech like **AI** and **blockchain**, and contributing to open-source projects that solve real-world problems.
+![Matrix Code Rain](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) 
+
+
+
+
+
+
 
 ---
 
@@ -82,45 +89,66 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ---
 
-## 📊 GitHub Stats!
+# 📊 GitHub Stats
 <div align="center">
 
-  <!-- GitHub Stats (green/black) -->
-  <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=black&include_all_commits=true&count_private=true" />
+  <!-- GitHub Stats (dark theme, green accents) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=My+GitHub+Stats" 
+    alt="GitHub Stats" 
+    width="600"
+  />
 
-<br/>
+  <br />
 
-<p style="color:#00ff00; font-family: black; font-size: 16px;">
-  
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=dark&background=000000&ring=00ff00&fire=00ff00&hide_border=true" 
+    alt="GitHub Streak Stats" 
+    height="170"
+  />
 
+  <br />
 
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=matrixgreen&bg_color=000000&title_color=00ff00&text_color=33ff33&icon_color=00ff00&border_color=000000&langs_count=10&hide_border=true" 
+    alt="Top Languages" 
+    height="180"
+  />
 
-  <!-- Streak stats: dark theme with green rings & fire -->
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=dark&background=000000&ring=00ff00&fire=00ff00" />
+  <br />
 
-  <!-- Top langs (green/black with overrides) -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=matrixgreen&bg_color=000000&title_color=00ff00&text_color=33ff33&icon_color=00ff00&border_color=000000&langs_count=10" />
-
-  <!-- Activity graph (dense, big width) -->
-  <img alt="Biruk's Activity Graph" width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=matrix&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&count=180" />
+  <!-- Contribution Graph -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=matrix&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&count=180" 
+    alt="Contribution Activity Graph" 
+    width="650"
+  />
 
 </div>
 
 ---
 
 <p align="center">
-  <!-- Profile Views badge with bright green -->
-  <img src="https://komarev.com/ghpvc/?username=birukG09&color=00ff00&style=flat-square" alt="Profile Views" />
+  <!-- Profile Views Badge -->
+  <img 
+    src="https://komarev.com/ghpvc/?username=birukG09&color=00ff00&style=flat-square" 
+    alt="Profile Views"
+  />
 
-  <!-- GitHub Trophy badge with matrix theme -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=birukG09&theme=matrix" alt="GitHub Trophy" />
+  &nbsp;&nbsp;
+
+  <!-- GitHub Trophy -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=birukG09&theme=matrix&no-bg=true&margin-w=10&margin-h=10" 
+      alt="GitHub Trophy" 
+      height="80"
+    />
   </a>
 </p>
 
----
 
 </div>
 
@@ -132,8 +160,22 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ## 📫 Get in Touch
 
-- 📬 Email: [birukgebre277@gmail.com](mailto:birukgebre277@gmail.com)  
-- 🧠 GitHub: [@birukG09](https://github.com/birukG09)
+- ## 🌐 **Connect With Me**
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-birukgebre277@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:birukgebre277@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biruk-gebre-230935238/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BIRUKGEBRE52731)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/birukG09)
+
+</div>
+
+---
+
+> "Code never lies, comments sometimes do."  
+> — Currently hacking on: `AI agent for embedded systems` | `Streak: 7 days`  
+> ![Matrix Falling Code](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 
 ---
 
