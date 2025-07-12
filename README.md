@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Biruk Gebre > !
-> ![Matrix Falling Code](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+
 I'm a **Software Engineering student** passionate about **programming**, **embedded systems**, and **intelligent automation**. I love building full-stack apps, exploring emerging tech like **AI** and **blockchain**, and contributing to open-source projects that solve real-world problems.
-![Matrix Code Rain](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif) 
+
 
 
 
