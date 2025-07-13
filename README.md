@@ -89,21 +89,21 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 GitHub Stats
 <div align="center">
 
-  <!-- GitHub Stats (dark theme, green accents) -->
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=My+GitHub+Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=My+GitHub+Stats" 
     alt="GitHub Stats" 
-    width="605"
+    width="600"
   />
 
   <br />
 
   <!-- Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=dark&background=000000&ring=00ff00&fire=00ff00&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=dark&background=0D1117&stroke=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=33FF33&hide_border=true" 
     alt="GitHub Streak Stats" 
     height="175"
   />
@@ -112,18 +112,18 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=matrix&bg_color=000000&title_color=00ff00&text_color=33ff33&icon_color=00ff00&border_color=000000&langs_count=10&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=radical&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=10&hide_border=true" 
     alt="Top Languages" 
-    height="405"
+    height="200"
   />
 
   <br />
 
   <!-- Contribution Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=matrix&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true&count=180" 
+    src="https://activity-graph.herokuapp.com/graph?username=birukG09&theme=github&custom_title=Contribution+Activity+Graph&bg_color=0D1117&color=33FF33&line=33FF33&point=33FF33&hide_border=true" 
     alt="Contribution Activity Graph" 
-    width="750"
+    width="600"
   />
 
 </div>
@@ -133,7 +133,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 <p align="center">
   <!-- Profile Views Badge -->
   <img 
-    src="https://komarev.com/ghpvc/?username=birukG09&color=00ff00&style=flat-square" 
+    src="https://komarev.com/ghpvc/?username=birukG09&color=33FF33&style=flat-square" 
     alt="Profile Views"
   />
 
@@ -142,21 +142,12 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
   <!-- GitHub Trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=birukG09&theme=matrix&no-bg=true&margin-w=10&margin-h=10" 
+      src="https://github-profile-trophy.vercel.app/?username=birukG09&theme=radical&no-bg=true&margin-w=10&margin-h=10" 
       alt="GitHub Trophy" 
       height="300"
     />
   </a>
 </p>
-
-
-</div>
-
----
-
-
----
-
 
 ## 📫 Get in Touch
 
