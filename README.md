@@ -172,8 +172,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ---
 
-> "Code never lies, comments sometimes do."  
-> — Currently hacking on: `AI agent for embedded systems` | `Streak: 7 days`  
+> "Code never lies, comments sometimes do."    
 > ![Matrix Falling Code](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 
