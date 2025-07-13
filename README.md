@@ -6,7 +6,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 
 
-
+![Animated Contribution Graph](https://github.com/birukG09/birukG09/raw/output/github-contribution-grid-snake.svg)
 
 
 ---
