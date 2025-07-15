@@ -103,16 +103,16 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
   <!-- Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=dark&background=0D1117&stroke=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=33FF33&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=&background=0D0017&stroke=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=33FF33&hide_border=true" 
     alt="GitHub Streak Stats" 
-    height="175"
+    height="600"
   />
 
   <br />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=radical&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=10&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=10&hide_border=true" 
     alt="Top Languages" 
     height="200"
   />
@@ -121,7 +121,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
   <!-- Contribution Graph -->
   <img 
-    src="https://activity-graph.herokuapp.com/graph?username=birukG09&theme=github&custom_title=Contribution+Activity+Graph&bg_color=0D1117&color=33FF33&line=33FF33&point=33FF33&hide_border=true" 
+    src="https://activity-graph.herokuapp.com/graph?username=birukG09&theme=dark&custom_title=Contribution+Activity+Graph&bg_color=0D1117&color=33FF33&line=33FF33&point=33FF33&hide_border=true" 
     alt="Contribution Activity Graph" 
     width="600"
   />
