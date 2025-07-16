@@ -99,55 +99,44 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
     width="600"
   />
 
-  <br />
+  <br /><br />
 
   <!-- Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=birukG09&theme=&background=0D0017&stroke=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=33FF33&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=birukG09&theme=github-dark&hide_border=true&background=0D1117&stroke=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=33FF33" 
     alt="GitHub Streak Stats" 
-    height="600"
+    height="300"
   />
 
-  <br />
+  <br /><br />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=10&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=radical&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=10&hide_border=true" 
     alt="Top Languages" 
     height="200"
   />
 
-  <br />
+  <br /><br />
 
   <!-- Contribution Graph -->
   <img 
-    src="https://activity-graph.herokuapp.com/graph?username=birukG09&theme=dark&custom_title=Contribution+Activity+Graph&bg_color=0D1117&color=33FF33&line=33FF33&point=33FF33&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=github-compact&area=true&hide_border=true&color=33FF33&line=33FF33&point=33FF33&bg_color=0D1117&custom_title=Contribution+Activity+Graph" 
     alt="Contribution Activity Graph" 
+    width="600"
+  />
+
+  <br /><br />
+
+  <!-- Alternate GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true" 
+    alt="GitHub Stats (Dark Theme)" 
     width="600"
   />
 
 </div>
 
----
-
-<p align="center">
-  <!-- Profile Views Badge -->
-  <img 
-    src="https://komarev.com/ghpvc/?username=birukG09&color=33FF33&style=flat-square" 
-    alt="Profile Views"
-  />
-
-  &nbsp;&nbsp;
-
-  <!-- GitHub Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=birukG09&theme=radical&no-bg=true&margin-w=10&margin-h=10" 
-      alt="GitHub Trophy" 
-      height="300"
-    />
-  </a>
-</p>
 
 ## 📫 Get in Touch
 
