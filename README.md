@@ -6,7 +6,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 
 
-![Animated Contribution Graph](https://github.com/birukG09/birukG09/raw/output/github-contribution-grid-snake.svg)
+
 
 
 ---
@@ -162,7 +162,6 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 </div>
 
 ---
-
 > "Code never lies, comments sometimes do."    
 > ![Matrix Falling Code](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
