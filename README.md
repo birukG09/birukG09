@@ -94,14 +94,14 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show_total_stars=true&v=1" 
     alt="GitHub Stats (Dark Theme)" 
     width="600"
   />
 
   <br /><br />
 
-  <!-- Streak Stats --->
+  <!-- Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=birukG09&theme=github-dark&hide_border=true&background=0D1117&stroke=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=33FF33" 
     alt="GitHub Streak Stats" 
@@ -127,6 +127,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
   />
 
 </div>
+
 
 
 
