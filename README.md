@@ -101,7 +101,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
   <br /><br />
 
-  <!-- Streak Stats -->
+  <!-- Streak Stats --->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=birukG09&theme=github-dark&hide_border=true&background=0D1117&stroke=00FF00&fire=00FF00&ring=00FF00&currStreakLabel=33FF33" 
     alt="GitHub Streak Stats" 
