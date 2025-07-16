@@ -94,8 +94,8 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=My+GitHub+Stats" 
-    alt="GitHub Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true" 
+    alt="GitHub Stats (Dark Theme)" 
     width="600"
   />
 
@@ -123,19 +123,11 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=github-compact&area=true&hide_border=true&color=33FF33&line=33FF33&point=33FF33&bg_color=0D1117&custom_title=Contribution+Activity+Graph" 
     alt="Contribution Activity Graph" 
-    width="600"
-  />
-
-  <br /><br />
-
-  <!-- Alternate GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true" 
-    alt="GitHub Stats (Dark Theme)" 
-    width="600"
+    width="1000"
   />
 
 </div>
+
 
 
 ## 📫 Get in Touch
