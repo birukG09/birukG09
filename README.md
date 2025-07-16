@@ -114,7 +114,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=radical&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=10&hide_border=true" 
     alt="Top Languages" 
-    height="200"
+    height="600"
   />
 
   <br /><br />
