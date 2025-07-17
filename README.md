@@ -13,7 +13,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ## 🌱 About Me
 
-- 🎓 2nd-year Software Engineering student  
+-  Software Engineering student  
 - 💻 Experienced in:  
   `Python`, `Java`, `Go`, `Rust`, `C/C++`, `PHP`, `JavaScript`, `R`  
 - 🌐 Skilled with:  
