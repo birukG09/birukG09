@@ -92,11 +92,12 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 # 🚀 GitHub Stats
 <div align="center">
 
+
   <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true&count_private=true&show_total_stars=true&v=1" 
     alt="GitHub Stats (Dark Theme)" 
-    width="600"
+    width="610"
   />
 
   <br /><br />
