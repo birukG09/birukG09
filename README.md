@@ -29,64 +29,44 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 ---
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 28px;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" alt="Python" title="Python"/>
+<!-- Programming Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" alt="Python" title="Python" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="64" alt="Go" title="Go" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/rust.svg" width="48" alt="Rust" title="Rust" loading="lazy" style="vertical-align:middle;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" alt="Java" title="Java" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" alt="JavaScript" title="JavaScript" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" alt="C" title="C" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" alt="C++" title="C++" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" alt="PHP" title="PHP" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="64" alt="R" title="R" loading="lazy"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="64" alt="Go" title="Go"/>
+<!-- Frameworks -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="64" alt="Flask" title="Flask" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="64" alt="Django" title="Django" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="64" alt="Spring" title="Spring" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" alt="React" title="React" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="64" alt="Tailwind CSS" title="Tailwind CSS" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="64" alt="Ruby on Rails" title="Ruby on Rails" loading="lazy"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="64" alt="Rust" title="Rust"/>
+<!-- Databases -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" alt="MySQL" title="MySQL" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" alt="PostgreSQL" title="PostgreSQL" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" alt="MongoDB" title="MongoDB" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" alt="SQLite" title="SQLite" loading="lazy"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="64" alt="Java" title="Java"/>
+<!-- Embedded / OS / Platforms -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="64" alt="Arduino" title="Arduino" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="64" alt="Android" title="Android" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" alt="Linux" title="Linux" loading="lazy"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="64" alt="JavaScript" title="JavaScript"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" alt="C" title="C"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" alt="C++" title="C++"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" alt="PHP" title="PHP"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="64" alt="R" title="R"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="64" alt="Flask" title="Flask"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="64" alt="Django" title="Django"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="64" alt="Spring" title="Spring"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" alt="React" title="React"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="64" alt="Tailwind CSS" title="Tailwind CSS"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="64" alt="Ruby on Rails" title="Ruby on Rails"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" alt="MySQL" title="MySQL"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" alt="PostgreSQL" title="PostgreSQL"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="64" alt="MongoDB" title="MongoDB"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" alt="SQLite" title="SQLite"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="64" alt="Arduino" title="Arduino"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="64" alt="Android" title="Android"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" alt="Linux" title="Linux"/>
-
-<img src="https://img.shields.io/badge/ESP32-black?style=flat-square&logo=espressif&logoColor=white" height="48" alt="ESP32" title="ESP32"/>
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=python&logoColor=white" height="48" alt="LangChain" title="LangChain"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F61?style=flat-square&logo=tensorflow&logoColor=white" height="48" alt="Machine Learning" title="Machine Learning"/>
-
-<img src="https://img.shields.io/badge/Security-black?style=flat-square&logo=securityscorecard" height="48" alt="Security" title="Security"/>
-
-<img src="https://img.shields.io/badge/Blockchain-315CF5?style=flat-square&logo=blockchain" height="48" alt="Blockchain" title="Blockchain"/>
+<!-- Blockchain (custom badge) -->
+<img src="https://img.shields.io/badge/Blockchain-315CF5?style=for-the-badge&logo=blockchain" height="48" alt="Blockchain" title="Blockchain" loading="lazy"/>
 
 </div>
+
 
 🚀 GitHub Stats & Achievements
 <div align="center">
