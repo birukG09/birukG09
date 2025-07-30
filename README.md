@@ -30,9 +30,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 ---
 
 🛠️ Technologies & Tools
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px;">
-
-<!-- Languages -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 28px;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" alt="Python" title="Python"/>
 
@@ -52,8 +50,6 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="64" alt="R" title="R"/>
 
-<!-- Frameworks -->
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="64" alt="Flask" title="Flask"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="64" alt="Django" title="Django"/>
@@ -66,8 +62,6 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="64" alt="Ruby on Rails" title="Ruby on Rails"/>
 
-<!-- Databases -->
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" alt="MySQL" title="MySQL"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="64" alt="PostgreSQL" title="PostgreSQL"/>
@@ -76,11 +70,11 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="64" alt="SQLite" title="SQLite"/>
 
-<!-- Embedded, AI, Security, Blockchain -->
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="64" alt="Arduino" title="Arduino"/>
 
-<img src="https://skillicons.dev/icons?i=ai" width="64" alt="AI" title="AI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="64" alt="Android" title="Android"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" alt="Linux" title="Linux"/>
 
 <img src="https://img.shields.io/badge/ESP32-black?style=flat-square&logo=espressif&logoColor=white" height="48" alt="ESP32" title="ESP32"/>
 
@@ -92,14 +86,22 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 <img src="https://img.shields.io/badge/Blockchain-315CF5?style=flat-square&logo=blockchain" height="48" alt="Blockchain" title="Blockchain"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="64" alt="Android" title="Android"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" alt="Linux" title="Linux"/>
-
 </div>
 
-🚀 GitHub Stats
+🚀 GitHub Stats & Achievements
 <div align="center">
+
+<!-- Profile Views -->
+
+<img src="https://komarev.com/ghpvc/?username=birukG09&style=flat-square&color=33FF33" alt="Profile Views" height="32"/>
+
+<br /><br />
+
+<!-- GitHub Trophies -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=birukG09&theme=onestar&no-frame=true&margin-w=18&row=1&column=7" alt="GitHub Trophies" width="100%" />
+
+<br /><br />
 
 <!-- GitHub Stats -->
 
@@ -124,6 +126,8 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 <img src="https://github-activity-graph.vercel.app/graph?username=birukG09&theme=github-compact&area=true&hide_border=true&color=33FF33&line=33FF33&point=33FF33&bg_color=0D1117&custom_title=Contribution+Activity+Graph" alt="Contribution Activity Graph" width="100%" />
 
 </div>
+
+
 
 
 ## 📫 Get in Touch
