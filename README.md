@@ -48,7 +48,6 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="64" alt="Django" title="Django" loading="lazy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="64" alt="Spring" title="Spring" loading="lazy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="64" alt="React" title="React" loading="lazy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="64" alt="Tailwind CSS" title="Tailwind CSS" loading="lazy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" width="64" alt="Ruby on Rails" title="Ruby on Rails" loading="lazy"/>
 
 <!-- Databases -->
