@@ -86,10 +86,14 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 <!-- GitHub Stats -->
 
 <img 
-    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=matrix&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Profile%20Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Profile%20Stats" 
     alt="GitHub Stats" 
     width="600" 
 />
+
+
+
+
 <br/><br/>
 
 <br/><br/>
