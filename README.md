@@ -42,7 +42,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" alt="C" title="C" loading="lazy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="64" alt="C++" title="C++" loading="lazy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" alt="PHP" title="PHP" loading="lazy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="64" alt="R" title="R" loading="lazy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="70" alt="R" title="R" loading="lazy"/>
 
 <!-- Frameworks -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="64" alt="Flask" title="Flask" loading="lazy"/>
