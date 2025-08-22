@@ -88,7 +88,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 <img 
     src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Profile%20Stats" 
     alt="GitHub Stats" 
-    width="800" 
+    width="600" 
 />
 
 
@@ -109,7 +109,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 <!-- Top Languages -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=github_dark&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=10&hide_border=true" alt="Top Languages" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=github_dark&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=18&hide_border=true" alt="Top Languages" width="500" />
 
 <br /><br />
 
