@@ -69,6 +69,8 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 
 🚀 GitHub Stats & Achievements
+![Profile Views](https://komarev.com/ghpvc/?username=birukG09&style=flat-square&color=blue)
+
 <div align="center">
 
  
