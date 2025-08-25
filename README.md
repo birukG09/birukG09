@@ -71,42 +71,19 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 🚀 GitHub Stats & Achievements
 <div align="center">
 
-<!-- Profile Views -->
+ 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=33FF33&icon_color=33FF33&text_color=FFFFFF" width="700" alt="GitHub Stats"/>
 
-<img src="https://komarev.com/ghpvc/?username=birukG09&style=flat-square&color=33FF33" alt="Profile Views" height="32"/>
-
-<br /><br />
-
-<!-- GitHub Trophies -->
-
-<img src="https://github-profile-trophy.vercel.app/?username=birukG09&theme=onestar&no-frame=true&margin-w=18&row=1&column=7" alt="GitHub Trophies" width="100%" />
-
-<br /><br />
-
-<!-- GitHub Stats -->
-
-<img 
-    src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Profile%20Stats" 
-    alt="GitHub Stats" 
-    width="600" 
-/>
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=birukG09&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=39D353&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" 
+    alt="GitHub Streak for birukG09" width="500"/>
+</div>
 
 
 
-
-
-<br/><br/>
-
-<br/><br/>
-
-<br/><br/>
-
-<!-- Streak Stats -->
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=birukG09&theme=github-dark&hide_border=true&background=0D1117&stroke=33FF33&fire=33FF33&ring=33FF33&currStreakLabel=33FF33" alt="GitHub Streak Stats" width="600" />
-
-<br /><br />
-
+ 
 <!-- Top Languages -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=github_dark&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=18&hide_border=true" alt="Top Languages" width="500" />
