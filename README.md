@@ -77,7 +77,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=birukG09&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=39D353&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" 
+    src="https://streak-stats.demolab.com?user=birukG09&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=39D353&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E"
     alt="GitHub Streak for birukG09" width="500"/>
 </div>
 
