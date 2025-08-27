@@ -97,10 +97,14 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 <br /><br />
 
 <!-- Contribution Graph -->
+# 🏆 GitHub Achievements & Contributions  
 
-<img src="https://github-activity-graph.vercel.app/graph?username=birukG09&theme=github-compact&area=true&hide_border=true&color=33FF33&line=33FF33&point=33FF33&bg_color=0D1117&custom_title=Contribution+Activity+Graph" alt="Contribution Activity Graph" width="100%" />
+### 📊 Contribution Activity
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=github-compact&area=true&hide_border=true)
 
-</div>
+### 🏅 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=darkhub&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
