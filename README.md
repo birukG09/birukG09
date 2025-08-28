@@ -92,9 +92,9 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
  
 <!-- Top Languages -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=github_dark&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=18&hide_border=true" alt="Top Languages" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=github_dark&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=20&hide_border=true" alt="Top Languages 1" width="500" />
+<br />
 
-<br /><br />
 
 <!-- Contribution Graph -->
 # 🏆 GitHub Achievements & Contributions  
