@@ -3,7 +3,11 @@
 
 I'm a **Software Engineering student** passionate about **programming**, **embedded systems**, and **intelligent automation**. I love building full-stack apps, exploring emerging tech like **AI** and **blockchain**, and contributing to open-source projects that solve real-world problems.
 
-
+  .
+  .
+.....
+  .
+  .
 
 
 
