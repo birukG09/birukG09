@@ -91,7 +91,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
     alt="GitHub Streak for birukG09" width="500"/>
 </div>
 
-
+[![GitHub Streak](https://github-readme-streak-stats-wdqv.vercel.app?user=birukG09)](https://git.io/streak-stats)
 
  
 <!-- Top Languages -->
