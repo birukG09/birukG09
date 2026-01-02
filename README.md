@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF"/>
-# 👋 Hello, I’m Biruk > !
+# 👋 Hello, I’m Biruk > !!
 
 I'm a **Software Engineering student** passionate about **programming**, **embedded systems**, and **intelligent automation**. I love building full-stack apps, exploring emerging tech like **AI** and **blockchain**, and contributing to open-source projects that solve real-world problems.
 
@@ -96,7 +96,7 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
  
 <!-- Top Languages -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=github_dark&bg_color=0D1117&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1117&langs_count=20&hide_border=true" alt="Top Languages 1" width="500" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birukG09&layout=compact&theme=github_dark&bg_color=0D1116&title_color=33FF33&text_color=33FF33&icon_color=33FF33&border_color=0D1116&langs_count=20&hide_border=true" alt="Top Languages 1" width="500" />
 <br />
 
 
