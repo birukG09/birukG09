@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF"/>
 # 👋 Hello, I’m Biruk > !!
 
-I'm a **Software Engineering student** passionate about **programming**, **embedded systems**, and **intelligent automation**. I love building full-stack apps, exploring emerging tech like **AI** and **blockchain**, and contributing to open-source projects that solve real-world problems.
+I'm a **Software Engineering student** passionate about **programming**, **embedded systems**, and **intelligent automation**. I love building full-stack apps, exploring emerging tech like **AI**  and **blockchain**, and contributing to open-source projects that solve real-world problems.
 
   .
   .
