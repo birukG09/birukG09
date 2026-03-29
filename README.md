@@ -41,7 +41,8 @@ I'm a **Software Engineering student** passionate about **programming**, **embed
 - 📡 Interested in:  
   - AI & Machine Learning  
   - Control Systems & IoT  
-  - Cybersecurity & Blockchain  
+  - Cybersecurity & Blockchain
+  - Data engineering
   - LLM integration (LangChain, custom tooling)  
   - Automation, CV, and embedded robotics  
   - OS fundamentals, Linux internals, and system software  
