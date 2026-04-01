@@ -1,8 +1,22 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF"/>
-# 👋 Hello, I’m Biruk > !!
+# 👋 Hello, I'm Biruk!
 
-I'm a **Software Engineering student** passionate about **programming**, **embedded systems**, and **intelligent automation**. I love building full-stack apps, exploring emerging tech like **AI**   and **blockchain**, and contributing to open-source projects that solve real-world problems.
+I'm a Software Engineering student driven by a deep passion for building scalable systems, intelligent applications, and future-focused technologies.
 
+💡 I specialize in:
+
+Full-stack development 
+Embedded systems & IoT
+AI, Machine Learning & automation
+Cloud computing & distributed systems
+
+🌍 I’m especially interested in solving real-world problems through technology from low level systems   and infrastructure to next-gen systems like  robotics, and AI-powered platforms.
+
+🔧 What I’m currently doing:
+
+Building full-stack and system-level projects
+Exploring advanced topics like cloud architecture, AI/ML, and low-level systems
+Contributing to open-source and developing production-ready applications
   .
   
 
