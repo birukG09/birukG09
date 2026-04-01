@@ -40,7 +40,7 @@ Contributing to open-source and developing production-ready applications
 - 💻 Experienced in:  
   `Python`, `Java`, `Go`, `Rust`, `C/C++`, `PHP`, `JavaScript`, `R`  
 - 🌐 Skilled with:  
-  `Flask`, `Django`, `Spring`, `React`, `Tailwind`, `Ruby on Rails`  
+`Next.js`, `Flask`, `Django`, `Spring`, `React`, `node.js`,`Tailwind`, `Ruby on Rails` ,`laravel` 
 - 📡 Interested in:  
   - AI & Machine Learning  
   - Control Systems & IoT  
