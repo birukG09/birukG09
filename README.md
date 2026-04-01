@@ -1,16 +1,14 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF"/>
 # 👋 Hello, I'm Biruk!
 
-I'm a Software Engineering student driven by a deep passion for building scalable systems, intelligent applications, and future-focused technologies.
+I'm a Software Engineering student focused on building modern web applications and scalable backend systems. I enjoy creating fast, user-friendly products and turning ideas into real-world solutions.
 
-💡 I specialize in:
+💡 Core Focus:
 
-Full-stack development 
-Embedded systems & IoT
-AI, Machine Learning & automation
-Cloud computing & distributed systems
-
-🌍 I’m especially interested in solving real-world problems through technology from low level systems   and infrastructure to next-gen systems like  robotics, and AI-powered platforms.
+Full-Stack Web Development
+Backend Systems & API Development
+AI-powered Web Applications
+System Automation
 
 🔧 What I’m currently doing:
 
