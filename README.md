@@ -105,9 +105,9 @@ Contributing to open-source and developing production-ready applications
   <img src="https://github-readme-stats. vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=33FF33&icon_color=33FF33&text_color=FFFFFF" width="500" alt="GitHub Stats"/>
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=birukG09&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&currStreakNum=39D353&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E"
-    alt="GitHub Streak for birukG09" width="800"/>
+
+
+
 </div>
 
  
