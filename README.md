@@ -102,7 +102,7 @@ Contributing to open-source and developing production-ready applications
 
  
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=33FF33&icon_color=33FF33&text_color=FFFFFF" width="600" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=birukG09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=33FF33&icon_color=33FF33&text_color=FFFFFF" width="500" alt="GitHub Stats"/>
 
 <div align="center">
   <img 
