@@ -121,7 +121,7 @@ Contributing to open-source and developing production-ready applications
 # 🏆 GitHub Achievements & Contributions  
 
 ### 📊 Contribution Activity
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=github-compact&area=true&hide_border=true)
+ ![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=birukG09&theme=github-compact&area=true&hide_border=true)
 
 ### 🏅 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=darkhub&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
