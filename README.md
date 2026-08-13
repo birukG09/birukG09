@@ -23,7 +23,7 @@ Contributing to open-source and developing production-ready applications
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-.......
+........
   .
   .
 
@@ -40,7 +40,8 @@ Contributing to open-source and developing production-ready applications
 - 💻 Experienced in:  
   `Python`, `Java`, `Go`, `Rust`, `C/C++`, `PHP`, `JavaScript`, `R`  
 - 🌐 Skilled with:  
-`Next.js`, `Flask`, `Django`, `Spring`, `React`, `node.js`,`Tailwind`, `Ruby on Rails` ,`laravel` 
+`Next.js`, `Flask`, `Django`, `Spring`, `React`, `node.js`,`Tailwind`, `Ruby on Rails` ,`laravel`,`Data engineering`
+
 - 📡 Interested in:  
   - AI & Machine Learning  
   - Control Systems & IoT  
