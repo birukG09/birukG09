@@ -93,7 +93,7 @@ Contributing to open-source and developing production-ready applications
 
 
 🚀 GitHub Stats & Achievements
-![Profile Views](https://komarev.com/ghpvc/?username=birukG09&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=birukG09&style=flat-square&color=green)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=birukG09&theme=darkhub)](https://github.com/birukG09)
